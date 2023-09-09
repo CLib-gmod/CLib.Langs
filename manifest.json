@@ -1,1 +1,12 @@
-{"ru":"https://raw.githubusercontent.com/CLib-gmod/CLib.Langs/main/langs/ru.json","en1":"https://raw.githubusercontent.com/CLib-gmod/CLib.Langs/main/langs/en.json"}
+{
+  "ru": {
+    "FullName": "Русский 😎",
+    "Icon": "clib/icons/cat.png",
+    "Pharse": "https://raw.githubusercontent.com/CLib-gmod/CLib.Langs/main/langs/ru.json"
+  },
+  "en": {
+    "FullName": "English 🤡🤡",
+    "Icon": "clib/icons/chat-processing.png"
+    "Pharse": "https://raw.githubusercontent.com/CLib-gmod/CLib.Langs/main/langs/en.json"
+  }
+}
