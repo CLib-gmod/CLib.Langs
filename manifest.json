@@ -6,7 +6,7 @@
   },
   "en": {
     "FullName": "English 🤡🤡",
-    "Icon": "clib/icons/chat-processing.png"
+    "Icon": "clib/icons/chat-processing.png",
     "Pharse": "https://raw.githubusercontent.com/CLib-gmod/CLib.Langs/main/langs/en.json"
   }
 }
