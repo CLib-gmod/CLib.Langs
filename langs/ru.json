@@ -1,8 +1,5 @@
 {
-  "Icon": "clib/icons/cat.png",
-  "Pharse": {
-    "sosi": "da",
-    "sosat": "net",
-    "pon":"da"
-  }
+  "sosi": "da",
+  "sosat": "net",
+  "pon":"da"
 }
